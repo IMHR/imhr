@@ -1,5 +1,7 @@
+require "oauth2"
 require "imhr/version"
+require "imhr/api"
 
-module Imhr
+module IMHR
   # Your code goes here...
 end

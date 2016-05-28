@@ -1,3 +1,3 @@
-module Imhr
-  VERSION = "0.1.0"
+module IMHR
+  VERSION = "1.0.0"
 end

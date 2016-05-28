@@ -1,11 +1,7 @@
 require 'spec_helper'
 
-describe Imhr do
+describe IMHR do
   it 'has a version number' do
-    expect(Imhr::VERSION).not_to be nil
-  end
-
-  it 'does something useful' do
-    expect(false).to eq(true)
+    expect(IMHR::VERSION).not_to be nil
   end
 end
